@@ -1,0 +1,9 @@
+version "3.8"
+
+services:
+  api-smart-house:
+    container_name: api-smart-house
+    image: api-smart-house
+    build: .
+    ports:
+      - 2010:2010

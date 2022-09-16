@@ -1,0 +1,8 @@
+fastapi~=0.78.0
+python-dotenv~=0.20.0
+loguru
+requests
+uvicorn
+sqlalchemy~=1.4.39
+bcrypt~=4.0.0
+pydantic~=1.9.1
